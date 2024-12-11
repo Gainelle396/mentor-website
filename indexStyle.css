@@ -2,7 +2,14 @@
     width: 58px;
     height: 23px;
     position: relative;
-    border: 4px solid white;
+    border: 7px solid white;
     left: 20px;
     display: inline;
+}
+.nav-line {
+    border: 0px;
+    border-top: 1px solid lightgrey;
+    margin: 0;
+    padding: 0;
+    width: 100%
 }
