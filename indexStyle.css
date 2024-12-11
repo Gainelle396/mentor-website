@@ -53,6 +53,9 @@
     padding-left: 120px;
 }
 .logo-title {
-    width: 200px;
+    position: relative;
+    width: 180px;
     height: auto;
+    margin-left: 700px;
+    margin-top: 30px;
 }
