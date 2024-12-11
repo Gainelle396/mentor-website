@@ -11,7 +11,7 @@
 }
 .logo-container {
     display: flex;
-    align-items: flex;
+    align-items: flex-start;
     position: relative;
     padding-top: 5px;
     padding-bottom:10px;
@@ -22,6 +22,26 @@
     position: absolute; right: 20px; top: 12px;
     -webkit-filter: opacity(0.35);
     filter: opacity(0.35);
+}
+.btn-group {
+    position: absolute; top: 3px; left: 130px;
+    gap: 10px;
+    display: flex;
+    margin-top: 0;
+}
+.button {
+    border: none;
+    background-color: white;
+    padding: 15px 17px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'IBM Plex sans';
+    cursor: pointer;
+}
+.btn-group .button:hover {
+    background-color: lightgrey;
 }
 .hLine {
     border: 0px;
@@ -35,7 +55,7 @@
     height: 32px;
     background-color: lightgrey;
     margin-left: 45px;
-    position: relative;
+    position: absolute; top: 12px; left: 75px;
 }
 .logo-container::after {
     content: "";
@@ -60,6 +80,7 @@
 }
 
 .aline {
+<<<<<<< HEAD:indexStyle.css
     border-top: 1px solid lightgrey;
     align-items: center;
     margin: 20px  0;
@@ -73,5 +94,7 @@
 }
 
 .p1 {
+=======
+>>>>>>> 5addd5d052dd994201ba35de531c6258f2c83edd:Homepage/indexStyle.css
     
 }
