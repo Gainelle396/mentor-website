@@ -80,5 +80,21 @@
 }
 
 .aline {
+<<<<<<< HEAD:indexStyle.css
+    border-top: 1px solid lightgrey;
+    align-items: center;
+    margin: 20px  0;
+    margin-top: 70px;
+
+}
+
+.about-logo {
+    width:300px;
+    margin-top: 30px;
+}
+
+.p1 {
+=======
+>>>>>>> 5addd5d052dd994201ba35de531c6258f2c83edd:Homepage/indexStyle.css
     
 }
