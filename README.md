@@ -1,4 +1,3 @@
 # mentor-website
 
-Tyler
-Gainelle
+Made by Tyler and Gainelle
