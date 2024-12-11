@@ -49,13 +49,16 @@
 .home-image {
     width: 550px;
     height: auto;
-    margin-top: 100px;
-    padding-left: 120px;
+    margin-top: 90px;
+    padding-left: 80px;
 }
 .logo-title {
-    position: relative;
-    width: 750px;
+    position: absolute; top: 150px;
+    width: 800px;
     height: auto;
-    margin-left: 700px;
-    margin-top: 30px;
+    margin-left: 650px;
+}
+
+.aline {
+    
 }
