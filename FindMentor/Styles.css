@@ -81,11 +81,3 @@
     height: 1px;
     background-color: lightgrey;
 }
-.mentorImage {
-    position: absolute; top: 55.5px; right: 0px;
-    width: 850px; 
-}
-.title {
-    position: absolute; top: 120px; left: 70px;
-    width: 550px;
-}
