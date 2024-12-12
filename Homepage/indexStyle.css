@@ -38,7 +38,23 @@
     display: inline-block;
     font-size: 16px;
     font-family: 'IBM Plex sans';
+    transition-duration: 0.4s;
     cursor: pointer;
+}
+.current {
+    border: 1.5px solid #4589ff;
+    background-color: white;
+    padding: 14px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'IBM Plex sans';
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.current:hover {
+    background-color: #e8e8e8;
 }
 .btn-group .button:hover {
     background-color: #e8e8e8;
