@@ -1,6 +1,7 @@
 .body {
     margin: 0;
 }
+/*IBM logo design*/
 .logo {
     width: 58px;
     height: 23px;
@@ -16,6 +17,7 @@
     padding-top: 5px;
     padding-bottom:10px;
 }
+/*Profile image*/
 .profile {
     width: 30px;
     height: 30px;
@@ -23,6 +25,7 @@
     -webkit-filter: opacity(0.35);
     filter: opacity(0.35);
 }
+/*Button grouping and design for navigation bar*/
 .btn-group {
     position: absolute; top: 3px; left: 130px;
     gap: 10px;
@@ -41,6 +44,7 @@
     transition-duration: 0.4s;
     cursor: pointer;
 }
+/*Highlights active page on navigation bar*/
 .current {
     border: 1.5px solid #4589ff;
     background-color: white;
@@ -53,12 +57,14 @@
     transition-duration: 0.4s;
     cursor: pointer;
 }
+/*Button hover effects*/
 .current:hover {
     background-color: #e8e8e8;
 }
 .btn-group .button:hover {
     background-color: #e8e8e8;
 }
+/*Line designs for separators*/
 .hLine {
     border: 0px;
     border-top: lightgrey;
@@ -82,6 +88,7 @@
     height: 1px;
     background-color: lightgrey;
 }
+/*Home page design*/
 .home-image {
     width: 550px;
     height: auto;
@@ -94,7 +101,7 @@
     height: auto;
     margin-left: 650px;
 }
-
+/*About section design*/
 .aline {
     border-top: 1px solid lightgrey;
     align-items: center;
