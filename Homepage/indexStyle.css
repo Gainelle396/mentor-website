@@ -87,11 +87,60 @@
 
 }
 
-.about-logo {
-    width:300px;
-    margin-top: 30px;
+.about {
+    font-family: 'IBM Plex sans'; 
+    color: #444; 
+    max-width: 800px; 
+    padding: 20px; 
 }
+  
+  /* Styling the heading */
+  .about h1 {
+    font-size: 65px; 
+    font-weight: normal; 
+    color: #595858; 
+    margin: 60px; 
+  }
+  
+  /* Styling the paragraphs */
+  .about p1 {
+    position: absolute; 
+    right: 250px; 
+    top: 650px;
+    margin: auto;
+    font-size: 18px; 
+    line-height: 1.4; 
+    max-width: 900px;
+  }
 
-.p1 {
-    position: absolute; top: 150px;
-}
+  .about p2 {
+    position: absolute; 
+    right: 250px; 
+    top: 900px;
+    margin: auto;
+    font-size: 18px; 
+    line-height: 1.4; 
+    max-width: 900px;
+  }
+  
+  /* Styling the list */
+  .about ul {
+    position: absolute; 
+    right: 500px; 
+    top: 780px;
+    margin: auto;
+    font-size: 18px; 
+    line-height: 1.4; 
+    max-width: 900px; 
+  }
+  
+.about ul li {
+    font-size: 18px; 
+    line-height: 1.4; 
+    margin-bottom: 10px; 
+  }
+  
+  .about ul li strong {
+    color: #000; 
+  }
+
