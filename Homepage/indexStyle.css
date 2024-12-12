@@ -32,7 +32,7 @@
 .button {
     border: none;
     background-color: white;
-    padding: 15px 17px;
+    padding: 15.5px 18px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -41,7 +41,7 @@
     cursor: pointer;
 }
 .btn-group .button:hover {
-    background-color: lightgrey;
+    background-color: #e8e8e8;
 }
 .hLine {
     border: 0px;
@@ -80,21 +80,5 @@
 }
 
 .aline {
-<<<<<<< HEAD:indexStyle.css
-    border-top: 1px solid lightgrey;
-    align-items: center;
-    margin: 20px  0;
-    margin-top: 70px;
-
-}
-
-.about-logo {
-    width:300px;
-    margin-top: 30px;
-}
-
-.p1 {
-=======
->>>>>>> 5addd5d052dd994201ba35de531c6258f2c83edd:Homepage/indexStyle.css
     
 }
