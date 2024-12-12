@@ -73,5 +73,5 @@
 }
 
 .p1 {
-    margin-left: 50px;
+    position: absolute; top: 150px;
 }
