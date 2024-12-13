@@ -127,3 +127,20 @@ p1 {
 .register:hover {
     background-color: #0353e9;
 }
+h2 {
+    position: absolute; top: 530px; left: 77px;
+    font-size: 40px;
+    font-family: 'IBM Plex sans';
+    color: #2C72FF;
+}
+h3 {
+    position: absolute; top: 600px; left: 80px;
+    font-size: 22px;
+    font-family: 'IBM Plex sans';
+}
+p2 {
+    position: absolute; top: 655px; left: 80px;
+    font-size: 18px;
+    font-family: 'IBM Plex sans';
+    line-height: 1.6;
+}
