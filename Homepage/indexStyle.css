@@ -105,7 +105,7 @@
 .aline {
     border-top: 1px solid lightgrey;
     align-items: center;
-    margin: 20px  0;
+    margin: 20px  ;
     margin-top: 70px;
 
 }
@@ -171,7 +171,7 @@
 .aline2 {
     border-top: 1px solid rgb(205, 204, 204);
     align-items: center;
-    margin: 20px  0;
+    margin: 20px ;
     margin-top: 120px;
 }
 
