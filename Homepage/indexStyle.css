@@ -27,7 +27,7 @@
 }
 /*Button grouping and design for navigation bar*/
 .btn-group {
-    position: absolute; top: 3px; left: 130px;
+    position: absolute; top: 7.1px; left: 130px;
     gap: 10px;
     display: flex;
     margin-top: 0;
