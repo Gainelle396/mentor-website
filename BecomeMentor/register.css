@@ -1,0 +1,7 @@
+.reg-container h1 {
+    position: absolute;
+    font-family: IBM Plex sans;
+    font-size: 45px;
+    margin-left: 30px;
+    color: #2C72FF;
+}
