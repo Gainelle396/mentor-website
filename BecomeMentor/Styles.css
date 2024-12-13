@@ -89,3 +89,12 @@
     position: absolute; top: 120px; left: 70px;
     width: 550px;
 }
+p1 {
+    position: absolute; 
+    left: 200px; 
+    top: 200px;
+    margin: auto;
+    font-size: 18px; 
+    line-height: 1.4; 
+    max-width: 900px;
+}
