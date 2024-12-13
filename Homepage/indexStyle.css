@@ -92,11 +92,11 @@
 .home-image {
     width: 550px;
     height: auto;
-    margin-top: 90px;
+    margin-top: 50px;
     padding-left: 80px;
 }
 .logo-title {
-    position: absolute; top: 150px;
+    position: absolute; top: 110px;
     width: 800px;
     height: auto;
     margin-left: 650px;
@@ -113,52 +113,53 @@
 .about {
     font-family: 'IBM Plex sans'; 
     color: #444; 
-    max-width: 800px; 
+    max-width:800px; 
     padding: 20px; 
 }
   
   /* Styling the heading */
   .about h1 {
-    font-size: 65px; 
+    font-size: 70px; 
     font-weight: normal; 
-    color: #595858; 
-    margin: 60px; 
+    color: #2C72FF; 
+    margin: 80px;
+    margin-left: 40px; 
   }
   
   /* Styling the paragraphs */
   .about p1 {
     position: absolute; 
-    right: 250px; 
-    top: 650px;
+    right: 150px; 
+    top: 600px;
     margin: auto;
-    font-size: 18px; 
+    font-size: 22px; 
     line-height: 1.4; 
-    max-width: 900px;
+    max-width: 1000px;
   }
 
   .about p2 {
     position: absolute; 
-    right: 250px; 
-    top: 900px;
+    right: 150px; 
+    top: 860px;
     margin: auto;
-    font-size: 18px; 
+    font-size: 22px; 
     line-height: 1.4; 
-    max-width: 900px;
+    max-width: 1000px;
   }
   
   /* Styling the list */
   .about ul {
     position: absolute; 
-    right: 500px; 
-    top: 780px;
+    right: 350px; 
+    top: 735px;
     margin: auto;
-    font-size: 18px; 
+    font-size: 22px; 
     line-height: 1.4; 
-    max-width: 900px; 
+    max-width: 900px;
   }
   
 .about ul li {
-    font-size: 18px; 
+    font-size: 22px; 
     line-height: 1.4; 
     margin-bottom: 10px; 
   }
@@ -167,3 +168,28 @@
     color: #000; 
   }
 
+.aline2 {
+    border-top: 1px solid rgb(205, 204, 204);
+    align-items: center;
+    margin: 20px  0;
+    margin-top: 120px;
+}
+
+.how-it-works-para {
+    font-family: 'IBM Plex sans';
+}
+
+.how-it-works-para h2{
+    position: absolute;
+    font-size: 65px; 
+    font-weight: normal; 
+    color: #2C72FF; 
+    margin: 60px; 
+    top: 1000px;
+}
+
+.how-it-works-image {
+    width: 1500px;
+    height: auto;
+    margin-top: 150px;
+}
