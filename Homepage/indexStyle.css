@@ -108,27 +108,23 @@
     align-items: center;
     margin: 20px  ;
     margin-top: 70px;
-
 }
-
 .about {
     font-family: 'IBM Plex sans'; 
     color: #444; 
     max-width:800px; 
     padding: 20px; 
 }
-  
-  /* Styling the heading */
-  .about h1 {
+/* Styling the heading */
+.about h1 {
     font-size: 70px; 
     font-weight: normal; 
     color: #2C72FF; 
     margin: 80px;
     margin-left: 40px; 
-  }
-  
-  /* Styling the paragraphs */
-  .about p1 {
+}
+/* Styling the paragraphs */
+.about p1 {
     position: absolute; 
     right: 150px; 
     top: 600px;
@@ -136,9 +132,8 @@
     font-size: 22px; 
     line-height: 1.4; 
     max-width: 1000px;
-  }
-
-  .about p2 {
+}
+.about p2 {
     position: absolute; 
     right: 150px; 
     top: 860px;
@@ -146,10 +141,9 @@
     font-size: 22px; 
     line-height: 1.4; 
     max-width: 1000px;
-  }
-  
-  /* Styling the list */
-  .about ul {
+}
+/* Styling the list */
+.about ul {
     position: absolute; 
     right: 350px; 
     top: 735px;
@@ -157,30 +151,25 @@
     font-size: 22px; 
     line-height: 1.4; 
     max-width: 900px;
-  }
-  
+}
 .about ul li {
     font-size: 22px; 
     line-height: 1.4; 
     margin-bottom: 10px; 
-  }
-  
-  .about ul li strong {
+}
+.about ul li strong {
     color: #000; 
-  }
-
+}
 .aline2 {
     border-top: 1px solid rgb(205, 204, 204);
     align-items: center;
     margin: 20px ;
     margin-top: 120px;
 }
-
 /* Styling the how it works section*/
 .how-it-works-para {
     font-family: 'IBM Plex sans';
 }
-
 .how-it-works-para h2{
     position: absolute;
     font-size: 65px; 
@@ -189,7 +178,6 @@
     margin: 60px; 
     top: 1000px;
 }
-
 .how-it-works-image {
     width: 1500px;
     height: auto;
