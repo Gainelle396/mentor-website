@@ -27,7 +27,7 @@
 }
 /*Button grouping and design for navigation bar*/
 .btn-group {
-    position: absolute; top: 7.1px; left: 130px;
+    position: absolute; top: 4px; left: 130px;
     gap: 10px;
     display: flex;
     margin-top: 0;
@@ -35,7 +35,7 @@
 .button {
     border: none;
     background-color: white;
-    padding: 15.5px 18px;
+    padding: 15px 18px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -66,6 +66,7 @@
 }
 /*Line designs for separators*/
 .hLine {
+    position: relative; top: 30px;
     border: 0px;
     border-top: lightgrey;
     margin: 0;
